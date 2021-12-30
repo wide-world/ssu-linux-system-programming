@@ -9,10 +9,10 @@
 * 실행 결과     
 
     * timelimit 인자가 입력되지 않은 경우(SIGINT로 강제종료)   
-   <img src="Capture/printdate1.jpg" width="70%" height="70%"></img><br/>
+   <img src="Capture/printdate1.JPG" width="50%" height="50%"></img><br/>
    
     * timelimit 인자가 입력된 경우(시간이 다 되면 SIGTERM으로 강제종료)  
-   <img src="Capture/printdate2.jpg" width="70%" height="70%"></img><br/>   
+   <img src="Capture/printdate2.JPG" width="50%" height="50%"></img><br/>   
 - - -
    
 ### 2. alarm( ), signal( ), raise( ) 시스템 콜을 이용한 프로그램 (myparent.c)
@@ -24,4 +24,4 @@
 >
 * 실행 결과     
 
-    <img src="Capture/myparent.jpg" width="70%" height="70%"></img><br/>
+    <img src="Capture/myparent.jpg" width="50%" height="50%"></img><br/>
